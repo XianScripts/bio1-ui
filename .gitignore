@@ -1,0 +1,18 @@
+# Ignore Python env and cache
+.venv/
+__pycache__/
+*.pyc
+
+# AI models
+backend/models/
+
+# DB
+*.sqlite3
+
+# OS files
+.DS_Store
+
+# Node
+node_modules/
+dist/
+
